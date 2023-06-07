@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} alt="logo" />
-        <p class="cursive text-6xl tracking-wider font-bold text-fuchsia-500">
+        <p class="cursive text-6xl tracking-normal font-bold text-fuchsia-500">
           x@emailgpt.app
         </p>
         <p class="cursive text-teal-500">You know what to do.</p>
